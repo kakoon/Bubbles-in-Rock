@@ -1,6 +1,8 @@
 # Bubbles-in-Rock
 This is team Rock-n-Roll's code for 3d-2d-bubbles-in-rock challenge at "Hack the Solar System" 2019.02.08~10
-Bubbles in Rock  
+
+"Bubbles in Rock"
+
 Addressing {3d-2d-bubbles-in-rock, https://github.com/amnh/HackTheSolarSystem/wiki/3D-and-2D-Bubbles-In-Rock} 
 Created by { Rock-n-Roll }  
 Member's GitHub handle and Full Name (in alphabetic order) 
