@@ -5,15 +5,19 @@ This is team Rock-n-Roll's code for 3d-2d-bubbles-in-rock challenge at "Hack the
 
 Addressing {3d-2d-bubbles-in-rock, https://github.com/amnh/HackTheSolarSystem/wiki/3D-and-2D-Bubbles-In-Rock} 
 
+
 Created by { Rock-n-Roll }  
+
 
 Member's GitHub handle and Full Name (in alphabetic order) 
 
-HyeYun Park @kakoon JiHyun Yang @jihyun2124 YoonHee Jo @joy00N YoonYoung Jo @yoonyoungj0 
+  HyeYun Park @kakoon JiHyun Yang @jihyun2124 YoonHee Jo @joy00N YoonYoung Jo @yoonyoungj0 
+  
 
 Solution Description 
 
-The goal of the team was to distinguish bubbles in each element's image and show the bubbles in different colors for the elements in 2d, further in 3d image. 3d image could be made with combining all the layers of the rock images but we didn't go that far. We've found the boundaries of bubbles on each element image (taken with spectrum images) and showed them with different colors.  
+  The goal of the team was to distinguish bubbles in each element's image and show the bubbles in different colors for the elements in 2d, further in 3d image. 3d image could be made with combining all the layers of the rock images but we didn't go that far. We've found the boundaries of bubbles on each element image (taken with spectrum images) and showed them with different colors.  
+
 
 
 Installation Instructions 
